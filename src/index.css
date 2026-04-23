@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:wght@400;500;600;700&display=swap');
+
+@theme {
+  --color-diablo-dark: #070707;
+  --color-diablo-gold: #c7b377;
+  --color-diablo-red: #8f0000;
+  --color-diablo-parchment: #e2d1a3;
+  --color-diablo-border: #3b2f15;
+  --color-diablo-gray: #4d4d4d;
+  --font-diablo-title: 'Cinzel', serif;
+  --font-diablo-body: 'EB Garamond', serif;
+}
+
+body {
+  background-color: #000;
+  color: var(--color-diablo-parchment);
+  font-family: var(--font-diablo-body);
+  background-image: url('https://www.transparenttextures.com/patterns/dark-matter.png');
+}
+
+h1, h2, h3, h4, h5, h6, .font-title {
+  font-family: var(--font-diablo-title);
+}
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #0f0a07;
+  border-left: 1px solid #2a1a10;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #5a4a3a;
+  border: 1px solid #2a1a10;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #c2a373;
+}
+
+

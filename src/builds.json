@@ -1,0 +1,1181 @@
+[
+  {
+    "className": "Sorceress",
+    "buildName": "Nova",
+    "tier": "S-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Charged Bolt",
+    "tier": "B-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Chain Lightning",
+    "tier": "A",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Teleport Thunder Storm (Passive)",
+    "tier": "B",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Frost Nova",
+    "tier": "A+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Frozen Orb",
+    "tier": "A+",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Ice Barrage",
+    "tier": "A",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Blizzard",
+    "tier": "A",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Glacial Spike",
+    "tier": "F+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Cold Enchant - Multiple Shot (Widowmaker)",
+    "tier": "C-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Cold Enchant - Werebear Sorc (Uldyssian's/Odium)",
+    "tier": "D-",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Combustion",
+    "tier": "B",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Meteor",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Hydra",
+    "tier": "B+",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Inferno",
+    "tier": "C-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Fire Enchant - Exploding Arrow (Demon Mach/Kuko)",
+    "tier": "B+",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Fire Enchant - Multiple Shot (Widowmaker)",
+    "tier": "D-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Fire Enchant - Werebear Sorc (Hellslayer - FB Proc)",
+    "tier": "D-",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Vengeance (Kingslayer)",
+    "tier": "D+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Sorceress",
+    "buildName": "Passive Sorc (FNova + Nova Procs + Shiver Armor)",
+    "tier": "D",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Lightning Fury",
+    "tier": "S",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Lightning Strike",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Power Strike",
+    "tier": "D+",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Charged Strike",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Plague Javelin",
+    "tier": "S",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Jab",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Fend",
+    "tier": "B",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Bearzon (Uldyssian's)",
+    "tier": "C",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Multiple Shot (Windforce/Bow)",
+    "tier": "A-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Strafe (Demon Machine)",
+    "tier": "A-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Crackleshot Strafe (LF/LB Proc)",
+    "tier": "C",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Freezing Arrow",
+    "tier": "B-",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Cold Arrow",
+    "tier": "A-",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Fire Arrow",
+    "tier": "B+",
+    "fortify": "✔✔",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Exploding Arrow",
+    "tier": "B",
+    "fortify": "✔✔",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Magic Arrow (Asylum)",
+    "tier": "B",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Hybrid Strafe/Valkyrie (Ebonbane)",
+    "tier": "B",
+    "fortify": "✔✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Amazon",
+    "buildName": "Pure Decoy Summon (Loyalty)",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "✔✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Poison Nova",
+    "tier": "S",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Desecrate",
+    "tier": "S-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Poison Strike",
+    "tier": "S+",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Teeth",
+    "tier": "B+",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Bone Spear",
+    "tier": "A-",
+    "fortify": "✔✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Bone Wall (Amp + ATD)",
+    "tier": "C+",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Corpse Explosion",
+    "tier": "A-",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Physical Skele Summon (Warriors + Archers)",
+    "tier": "C",
+    "fortify": "✔✔",
+    "budget": "✔✔✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Green Goblin (Demon Machine Merc + Physical Skeles)",
+    "tier": "A-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Pure Phys Revive (Eternity + ST - Moon Lords)",
+    "tier": "D+",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Pure Ele Revive (Eternity + ST - Gloams/Souls)",
+    "tier": "D-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Elemental Summoner (Mage Skeles + Ele Revives)",
+    "tier": "C-",
+    "fortify": "✔",
+    "budget": "✔✔✔",
+    "hc": "✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Fire Golems",
+    "tier": "A+",
+    "fortify": "❌",
+    "budget": "✔✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Blood Golems",
+    "tier": "C+",
+    "fortify": "✔",
+    "budget": "✔✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Clay Golems",
+    "tier": "D+",
+    "fortify": "✔✔",
+    "budget": "✔✔✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Dark Pact",
+    "tier": "B",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Confuse",
+    "tier": "F-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "❌"
+  },
+  {
+    "className": "Necromancer",
+    "buildName": "Passive Boner (Bone Spear Proc - Brand)",
+    "tier": "C",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Twister",
+    "tier": "B-",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Tornado",
+    "tier": "C",
+    "fortify": "✔✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Arctic Blast/Hurricane",
+    "tier": "S",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Molten Boulder",
+    "tier": "B-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Fissure",
+    "tier": "B+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Volcano",
+    "tier": "S-",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Bear - Shockwave",
+    "tier": "D+",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Wolf - Rabies",
+    "tier": "S",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "❌"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Wolf - Fire Claws",
+    "tier": "C-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Wolf - Fury",
+    "tier": "B-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Wolf - Twister Proc Fury (Windhammer + 2x Carrions)",
+    "tier": "D+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "❌"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Bear - Maul",
+    "tier": "B",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Summon (Raven Focus)",
+    "tier": "D",
+    "fortify": "✔✔",
+    "budget": "✔✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Summon (4x Bears Only - Denmother)",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "✔✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Druid",
+    "buildName": "Poison Creeper (Worm Re-Summoning)",
+    "tier": "A-",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "❌"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Chain Lightning Sentry",
+    "tier": "C+",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔✔✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Charged Bolt Sentry",
+    "tier": "F",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Shock Web",
+    "tier": "C-",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Wake of Fire",
+    "tier": "S",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Fire Blast",
+    "tier": "C",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Death Sentry (Merc Desecrate Proc - Viperfork)",
+    "tier": "C",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Blade Fury",
+    "tier": "A+",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Poison Blade Sentinel",
+    "tier": "B+",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Physical Blade Sentinel",
+    "tier": "B-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Phoenix Strike",
+    "tier": "S-",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Cobra Strike",
+    "tier": "S-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Fists of Fire",
+    "tier": "S",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Claws of Thunder",
+    "tier": "A",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Blades of Ice",
+    "tier": "A",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Tiger Strike",
+    "tier": "D+",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Dragon Tail/Talon",
+    "tier": "B+",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Mind Blast/Psychic Hammer (2-3 Shadows)",
+    "tier": "B",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Blade Dance",
+    "tier": "B",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Assassin",
+    "buildName": "Venom Bowsin - Multiple Shot (Widowmaker)",
+    "tier": "C-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Fist of the Heavens",
+    "tier": "B+",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Bolt",
+    "tier": "D+",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Blessed Hammer (Hdin)",
+    "tier": "A",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Sacrifice Hammer Proc (Akarat's)",
+    "tier": "B-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Physical Zeal (1-H)",
+    "tier": "B-",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Physical Zeal (2-H)",
+    "tier": "C+",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "FOH/Holy Bolt Proc Zeal (Asylum + Principle)",
+    "tier": "D+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Physical Charge (2-H)",
+    "tier": "C-",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Vengeance (Azure/Lightsabre/Famine PB)",
+    "tier": "A-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "❌"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Smite",
+    "tier": "D",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Physical Sacrifice (1-H) (Schaeffer's)",
+    "tier": "S-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Physical Sacrifice (2-H) (Leoric's)",
+    "tier": "A+",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Freeze Sacrifice (Native Aura)",
+    "tier": "A",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Fire Sacrifice (Native Aura)",
+    "tier": "A-",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Shock Sacrifice (Native Aura)",
+    "tier": "S+",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Sanctuary Sacrifice (Native Aura) (Redeemer)",
+    "tier": "A",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "❌",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Shock Charge (Items OR Native)",
+    "tier": "B",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Freeze Charge (Items OR Native)",
+    "tier": "B",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Fire Charge (HOJ + 2x Dragon)",
+    "tier": "B",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Sanctuary Charge (Native Aura) (Redeemer)",
+    "tier": "B+",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Shock Multiple Shot (Widowmaker)",
+    "tier": "D+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Fire Exploding Arrow (Demon Machine)",
+    "tier": "C+",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Holy Fire Beardin (Hellslayer)",
+    "tier": "C",
+    "fortify": "✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Principle Strafe (Endlesshail)",
+    "tier": "C",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Paladin",
+    "buildName": "Thorns Sacrifice (Silence + Bramble)",
+    "tier": "C",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "❌",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Frenzy",
+    "tier": "B",
+    "fortify": "✔✔",
+    "budget": "✔",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Whirlwind (2-H)",
+    "tier": "S",
+    "fortify": "❌",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Whirlwind (2x 1-H)",
+    "tier": "A",
+    "fortify": "❌",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Fire Whirlwind (2x Flamebellow)",
+    "tier": "C+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Magic Whirlwind (2x Asylum)",
+    "tier": "A",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Leap Attack (Standard - Big Huge ED Stick)",
+    "tier": "C+",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Fire Leap Attack (Fissure Proc - Rapture)",
+    "tier": "B",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "War Cry Proc Leap Attack (Giant Maimer)",
+    "tier": "C-",
+    "fortify": "❌",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Double Throw",
+    "tier": "A+",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Split Throw",
+    "tier": "B-",
+    "fortify": "✔",
+    "budget": "✔",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Concentrate",
+    "tier": "C-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Berserk",
+    "tier": "B-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "War Cry",
+    "tier": "A",
+    "fortify": "✔",
+    "budget": "✔✔",
+    "hc": "✔✔",
+    "t1t2": "✔✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Bear Barb (Executioner's/Raekor's)",
+    "tier": "B-",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Zeal Barb",
+    "tier": "C",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔✔",
+    "t1t2": "✔"
+  },
+  {
+    "className": "Barbarian",
+    "buildName": "Wolf Barb",
+    "tier": "C+",
+    "fortify": "✔✔",
+    "budget": "❌",
+    "hc": "✔",
+    "t1t2": "✔"
+  }
+]
